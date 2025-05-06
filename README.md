@@ -1,3 +1,4 @@
+![sc1](https://github.com/user-attachments/assets/5932dea0-afe2-4b85-96b6-f4feb80eec95)
 # Advanced Calculator App
 
 This is a modern and interactive **Web Calculator** built with **HTML, CSS, and JavaScript**. It supports both **basic arithmetic operations** and advanced scientific functions.
